@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","160","Mettre à jour un utilisateur","User API Collection","Fri Apr 18 01:54:04 CEST 2025","passed","Fri Apr 18 01:54:04 CEST 2025","","","",""
+"","150","Créer un utilisateur","User API Collection","Fri Apr 18 01:54:04 CEST 2025","passed","Fri Apr 18 01:54:04 CEST 2025","","","",""
+"","140","Supprimer un utilisateur","User API Collection","Fri Apr 18 01:54:04 CEST 2025","passed","Fri Apr 18 01:54:04 CEST 2025","","","",""
+"","212","Lister les utilisateurs","User API Collection","Fri Apr 18 01:54:03 CEST 2025","passed","Fri Apr 18 01:54:04 CEST 2025","","","",""
